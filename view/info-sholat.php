@@ -1,0 +1,1 @@
+<!--start code Widget Jadwal Shalat wilayah (Kota Jakarta/DKI Jakarta) --><center><iframe src="https://bimasislam.kemenag.go.id/widget/jadwalshalat/42d38931fbd98d4764cc39ab8694a0f1f42d2e7d" width="240" style="background : transparent" height="310px"  frameborder="0" scrolling="no"> </iframe></center><!--end code Widget Jadwal Shalat -->  
